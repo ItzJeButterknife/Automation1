@@ -39,7 +39,7 @@ def get_data(row,file):
 
     date = sheet['F'+str(row)].value
 
-
+#hahahalol
 
 get_data(2,"testfile.xlsx")
 pyautogui.click(400,1055)
